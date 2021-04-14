@@ -20,17 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa3a05a8-50da-4856-91cc-a60b2442700a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/owl/css/owl.carousel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/owl/css/owl.theme.default.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/owl/js/owl.carousel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/img/Thumbs.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/banner/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/img/banner/Thumbs.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/brands/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/img/brands/Thumbs.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/djazi_pic/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/img/djazi_pic/Thumbs.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/Thumbs.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/p1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/services/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/img/services/Thumbs.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/testimonials/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/img/testimonials/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611840775377</updated>
       <workItem from="1611840776478" duration="1760000" />
+      <workItem from="1611843099409" duration="137000" />
     </task>
     <servers />
   </component>
@@ -77,5 +68,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
